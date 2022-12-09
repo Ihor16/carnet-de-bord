@@ -2,9 +2,9 @@
 
 ### 1. Différents types de voyageurs
 
-> Je pense que il y a seulement ces deux types de voyageurs.
+> Je pense qu'il y a seulement ces deux types de voyageurs.
 
-**Un voyageur qui aime explore:**
+**Un voyageur qui aime explore : **
 
 - C'est une personne qui aime découvrir des endroits nouveaux et rencontrer des locaux.
 - Ce voyageur n'allez jamais prendre le bus dans une nouvelle ville, mais il va marcher beaucoup et prendre beaucoup de photos.
@@ -30,11 +30,11 @@ Cinq mois plus tard, j'ai reçu en émail avec l'offre, et je l'ai acceptée. C'
 
 ### 3. Comme j'apprends le français
 
-> J'apprends le français depuis ma première année à l'université. Donc, ici sont des façons j'utilise pour apprendre cette langue merveilleux.
+> J'apprends le français depuis ma première année à l'université. Donc, ici sont des façons j'utilise pour apprendre cette langue merveilleuse.
 
 Je veux apprendre le français pour voyager autour du monde et rencontrer des cultures francophones.
 
-Afin d'apprendre cette langue, je prends des cours en UBC et écoute de la musique français pendant mon temps libre.
+Afin d'apprendre cette langue, je prends des cours en UBC et écoute de la musique française pendant mon temps libre.
 
 De plus, dans le but d'améliorer mon vocabulaire, je lis des descriptions de produits dans les magasins en français.
 
@@ -48,25 +48,25 @@ J'aime lire des livres, et c'était la première fois que j'ai lu une pièce en 
 
 L'histoire de cette pièce n'est pas heureuse, mais j'aime ce réalisme. Particulièrement, j'ai senti le sujet de la pression culturelle parce que Bérénice n'a pas pu rester avec Titus à cause des restrictions culturelles.
 
-Je pense que ce n'est pas assez critique maintenant, mais la pression culturelle se révèle aux autres formes. Par exemple, en n'acceptant pas des cultures étranges, on discrimine des gens et leur traditions.
+Je pense que ce n'est pas assez critique maintenant, mais la pression culturelle se révèle aux autres formes. Par exemple, en n'acceptant pas des cultures étranges, on discrimine des gens et leurs traditions.
 
 Donc, cette pièce théâtrale est intéressante et toujours actuelle.
 
-### 5. Le projet de groupe: Pourquoi j'aime la musique
+### 5. Le projet de groupe : Pourquoi j'aime la musique
 
 > Cette semaine je vais commencer mon travail dans le projet de groupe. Nous avons choisi le thème sur la musique, donc je partage ici pourquoi j'aime la musique et l'écoute dans ma vie quotidienne.
 
-J'adore écouter de la musique parce que je me sens dans un monde différent en écoutant. C'est le monde sans stresse, mais il y a l'harmonie dans chaque son et chaque verset de lyrique.
+J'adore écouter de la musique parce que je me sens dans un monde différent en écoutant. C'est le monde sans stress, mais il y a l'harmonie dans chaque son et chaque verset de lyrique.
 
 Je trouve que les chansons sont comme les livres, je peux les utiliser aussi bien pour me défouler en imaginant le monde joli et en pensant que ce monde est autour moi.
 
 Aussi, il me rend heureux de partager mes chansons favorites et d'apprendre des nouveaux artistes en parlant avec mes camarades. Donc, je voudrais partager quelques chansons avec eux dans mon projet de groupe.
 
-### 6. Le projet de groupe: La musique pour éliminer le stress avant des examens
+### 6. Le projet de groupe : La musique pour éliminer le stress avant des examens
 
-> Ici sont les chansons que j'ai choisies pour partager avec mes camarades. Je n'écoute pas les chansons français, donc je les ai recherché et ai trouvé [ici](https://aerostatbg.ru/release/897#composition-3). C'est le site de mon chanteur préféré, où il partage des chansons jolies et toujours actuelles.
+> Ici sont les chansons que j'ai choisies pour partager avec mes camarades. Je n'écoute pas les chansons françaises, donc je les ai recherchés et ai trouvé [ici](https://aerostatbg.ru/release/897#composition-3). C'est le site de mon chanteur préféré, où il partage des chansons jolies et toujours actuelles.
 
-**Charles Trenet, "La Mer":**
+**Charles Trenet, "La Mer" : **
 
 Si mes camarades sont stressés à cause des examens, ils peuvent écouter des chansons relaxantes de Charles Trenet. Par exemple, sa chanson "La Mer" aide à trouver la beauté dans les moments présents.
 
@@ -84,21 +84,21 @@ Donc, il ne faut pas stresser pour les examens parce que la vie est très grande
 
 > Cette semaine, je suis allé au théâtre de UBC pour regarder "La Cantatrice Chauve".
 
-C'était intéressant, mais j'imaginais les acteurs en peut différemment en lisant le texte. Je pensait que M. Smith et ta femme étaient plus vielles parce que les caractères l'écrivant a décrit semblait pas aventureux, mais in lieu très concentrés dans la vie quotidienne. Donc c'était étrange que notre théâtre ait partagé cette histoire en utilisant les acteurs jeunes.
+C'était intéressant, mais j'imaginais les acteurs en peut différemment en lisant le texte. Je pensais que M. Smith et ta femme étaient plus vielles parce que les caractères l'écrivant a décrit semblait pas aventureux, mais au lieu très concentrés dans la vie quotidienne. Donc c'était étrange que notre théâtre ait partagé cette histoire en utilisant les acteurs jeunes.
 
 Mais d'autre part, j'ai aimé beaucoup comme les acteurs liraient le texte et changeaient la musique pour partager l'absurdité de leurs dialogues. Ça m'a fait rire quand Mme Smith partageait sérieusement ses opinions sur les avantages du yaourt quand son mari ne l'écoutait pas mais était très concentré dans sa lecture.
 
 Donc, ça m'a fait plaisir de visiter cette pièce de théâtre et j'espère qu'il y aura plus d'opportunités comme ça.
 
-### 8. Un ressource social pour apprendre programmation
+### 8. Une ressource sociale pour apprendre programmation
 
 > Ici je partage une ressource sociale qui me permet d'étudier la programmation et de partager mes projets avec des amis.
 
 J'aime publier mes projets en GitHub, qui est une plateforme pour partager le code des programmes et le corriger ensemble avec les gens autour de monde. J'utilise cette plateforme pour travailler dans les projets de groupe pour mes cours, et j'aime bien aussi y publier mes projets personnels ([ici](https://github.com/Ihor16) est mon compte).
 
-Comme je l'ai dit, cette plateforme est génial pour apprendre la programmation parce qu'on peut y trouver le code des programmes populaire. Par exemple, [ici](https://github.com/prometheus/prometheus) est la page de Prometheus, la plateforme la plus populaire pour surveiller des serveurs. Et on peut y trouver son code et l'étudier pour apprendre ce système à l'intérieur.
+Comme je l'ai dit, cette plateforme est géniale pour apprendre la programmation parce qu'on peut y trouver le code des programmes populaire. Par exemple, [ici](https://github.com/prometheus/prometheus) est la page de Prometheus, la plateforme la plus populaire pour surveiller des serveurs. Et on peut y trouver son code et l'étudier pour apprendre ce système à l'intérieur.
 
-De plus, c'est aussi possible de contribuer dans les projets si on veut ajouter quelque chose nouveaux ou fixer un problème. J'ai envoyé une petite correction pour Prometheus cet été, et donc maintenant ça marche mieux.
+De plus, c'est aussi possible de contribuer dans les projets si on veut ajouter quelque chose nouveau ou fixer un problème. J'ai envoyé une petite correction pour Prometheus cet été, et donc maintenant ça marche mieux.
 
 Par conséquent, cette ressource est très utile et je le recommande à chacun intéressé à l'informatique.
 
