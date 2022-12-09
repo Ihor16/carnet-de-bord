@@ -4,13 +4,13 @@
 
 > Je pense que il y a seulement ces deux types de voyageurs.
 
-`Un voyageur qui aime explore:`
+**Un voyageur qui aime explore:**
 
 - C'est une personne qui aime découvrir des endroits nouveaux et rencontrer des locaux.
 - Ce voyageur n'allez jamais prendre le bus dans une nouvelle ville, mais il va marcher beaucoup et prendre beaucoup de photos.
 - Cette personne peut aussi visiter un pays pour apprendre une langue ou travailler comme bénévole.
 
-`Un voyageur qui rester chez lui.elle:`
+**Un voyageur qui rester chez lui.elle:**
 
 - Cette personne aime relaxer chez elle dans un hôtel tout compris et nager seulement dans la piscine.
 - Ce voyageur regarde beaucoup de télé et mange au moins 5 fois dans l'hôtel parce que c'est délicieux et gratuit.
@@ -66,14 +66,14 @@ Aussi, il me rend heureux de partager mes chansons favorites et d’apprendre de
 
 > Ici sont les chansons que j'ai choisies pour partager avec mes camarades. Je n'écoute pas les chansons français, donc je les ai recherché et ai trouvé [ici](https://aerostatbg.ru/release/897#composition-3). C'est le site de mon chanteur préféré, où il partage des chansons jolies et toujours actuelles.
 
-`Charles Trenet: "La Mer"`:
-Si mes camarades sont stressés à cause des examens, ils peuvent écouter des chansons relaxantes de Charles Trenet.
+**Charles Trenet, "La Mer":**
 
-Par exemple, sa chanson "La Mer" aide à trouver la beauté dans les moments présents.
+Si mes camarades sont stressés à cause des examens, ils peuvent écouter des chansons relaxantes de Charles Trenet. Par exemple, sa chanson "La Mer" aide à trouver la beauté dans les moments présents.
 
 Il me permet de décompresser et ça me met de bonne humeur.
 
-`Maurice Chevalier: "Ça Sent Si Bon La France"`:
+**Maurice Chevalier, "Ça Sent Si Bon La France"**
+
 Maurice Chevalier a une chanson géniale pour éliminer le stress. Son "Ça Sent Si Bon La France" aide à comprendre qu'il y a des choses autour nous qui sont aussi importantes que les examens.
 
 Il chante que les petites choses rendent notre vie comme une aventure où il y a beaucoup de choses à découvrir.
