@@ -4,7 +4,7 @@
 
 > Je pense qu'il y a seulement ces deux types de voyageurs.
 
-**Un voyageur qui aime explore : **
+**Un voyageur qui aime explore:**
 
 - C'est une personne qui aime découvrir des endroits nouveaux et rencontrer des locaux.
 - Ce voyageur n'allez jamais prendre le bus dans une nouvelle ville, mais il va marcher beaucoup et prendre beaucoup de photos.
@@ -66,7 +66,7 @@ Aussi, il me rend heureux de partager mes chansons favorites et d'apprendre des 
 
 > Ici sont les chansons que j'ai choisies pour partager avec mes camarades. Je n'écoute pas les chansons françaises, donc je les ai recherchés et ai trouvé [ici](https://aerostatbg.ru/release/897#composition-3). C'est le site de mon chanteur préféré, où il partage des chansons jolies et toujours actuelles.
 
-**Charles Trenet, "La Mer" : **
+**Charles Trenet, "La Mer":**
 
 Si mes camarades sont stressés à cause des examens, ils peuvent écouter des chansons relaxantes de Charles Trenet. Par exemple, sa chanson "La Mer" aide à trouver la beauté dans les moments présents.
 
