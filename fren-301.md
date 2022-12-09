@@ -30,7 +30,7 @@ Cinq mois plus tard, j'ai reçu en émail avec l'offre, et je l'ai acceptée. C'
 
 ### 3. Comme j'apprends le français
 
-> J'apprends le français depuis ma première année à l'université. Donc, ici sont des façons j’utilise pour apprendre cette langue merveilleux.
+> J'apprends le français depuis ma première année à l'université. Donc, ici sont des façons j'utilise pour apprendre cette langue merveilleux.
 
 Je veux apprendre le français pour voyager autour du monde et rencontrer des cultures francophones.
 
@@ -60,7 +60,7 @@ J'adore écouter de la musique parce que je me sens dans un monde différent en 
 
 Je trouve que les chansons sont comme les livres, je peux les utiliser aussi bien pour me défouler en imaginant le monde joli et en pensant que ce monde est autour moi.
 
-Aussi, il me rend heureux de partager mes chansons favorites et d’apprendre des nouveaux artistes en parlant avec mes camarades. Donc, je voudrais partager quelques chansons avec eux dans mon projet de groupe.
+Aussi, il me rend heureux de partager mes chansons favorites et d'apprendre des nouveaux artistes en parlant avec mes camarades. Donc, je voudrais partager quelques chansons avec eux dans mon projet de groupe.
 
 ### 6. Le projet de groupe: La musique pour éliminer le stress avant des examens
 
@@ -100,7 +100,7 @@ Comme je l'ai dit, cette plateforme est génial pour apprendre la programmation 
 
 De plus, c'est aussi possible de contribuer dans les projets si on veut ajouter quelque chose nouveaux ou fixer un problème. J'ai envoyé une petite correction pour Prometheus cet été, et donc maintenant ça marche mieux.
 
-Par conséquent, cette ressource est très utile et je le recommande à chacun intéressé à l’informatique.
+Par conséquent, cette ressource est très utile et je le recommande à chacun intéressé à l'informatique.
 
 ### 9. L'envoi des messages n'est pas efficace
 
@@ -118,6 +118,6 @@ En définitive, je trouve que c'est important d'envoyer moins de messages et té
 
 Cependant, cet été j'ai vécu dans une famille d'accueil d'Ukraine et ils m'inspirent d'apprendre à cuisiner parce que c'était délicieux et sain.
 
-Donc, la première semaine je suis arrivé en campus, j’ai fait les courses, et je l'ai cuisiné. C’était délicieux et pas difficile à cuisiner, donc je l'ai beaucoup aimé.
+Donc, la première semaine je suis arrivé en campus, j'ai fait les courses, et je l'ai cuisiné. C'était délicieux et pas difficile à cuisiner, donc je l'ai beaucoup aimé.
 
 Je mangeais du bortsch quand j'étais enfant, et donc je me sentais comme chez moi.
