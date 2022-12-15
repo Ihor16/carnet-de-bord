@@ -121,3 +121,13 @@ Cependant, cet été j'ai vécu dans une famille d'accueil d'Ukraine et ils m'in
 Donc, la première semaine je suis arrivé en campus, j'ai fait les courses, et je l'ai cuisiné. C'était délicieux et pas difficile à cuisiner, donc je l'ai beaucoup aimé.
 
 Je mangeais du bortsch quand j'étais enfant, et donc je me sentais comme chez moi.
+
+### 11. Il faut vivre sa vie en prenant des risques
+
+> Ici est une révision du texte de mon examen
+
+Je suis d'accord avec André Gide. Je trouve que des gens regrettent des choses qu'ils n'ont pas faites.
+
+J'aime vivre prudemment, et donc je préfère rester dans ma zone de confort. Mais d'autre part, je pense aussi que des choses dangereuses rendent notre vie comme une aventure très intéressante. Ainsi, on devient curieux et on vit la vie bruyamment en prenant des risques. Par exemple, si je partais en Europe cet été, je pourrai y rencontrer des gens magnifiques et pratiquer mon français. Aussi, je regrette de ne pas avoir pris les cours de français dans mon école et Géorgie parce que maintenant j'aurais pu utiliser cette langue plus facilement.
+
+En définitive, il faut qu'on prenne des risques et on ose vivre sa vie en découvrant sa beauté.
