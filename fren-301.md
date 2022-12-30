@@ -131,3 +131,5 @@ Je suis d'accord avec André Gide. Je trouve que des gens regrettent des choses 
 J'aime vivre prudemment, et donc je préfère rester dans ma zone de confort. Mais d'autre part, je pense aussi que des choses dangereuses rendent notre vie comme une aventure très intéressante. Ainsi, on devient curieux et on vit la vie bruyamment en prenant des risques. Par exemple, si je partais en Europe cet été, je pourrai y rencontrer des gens magnifiques et pratiquer mon français. Aussi, je regrette de ne pas avoir pris les cours de français dans mon école et Géorgie parce que maintenant j'aurais pu utiliser cette langue plus facilement.
 
 En définitive, il faut qu'on prenne des risques et on ose vivre sa vie en découvrant sa beauté.
+
+Nouvelle texte
