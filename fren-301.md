@@ -132,3 +132,5 @@ J'aime vivre prudemment, et donc je préfère rester dans ma zone de confort. Ma
 
 En définitive, il faut qu'on prenne des risques et on ose vivre sa vie en découvrant sa beauté.
 
+
+Nouvelle texte
