@@ -55,70 +55,32 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 ### La concordance des temps
 
-**Présent - imparfait**
+| Règle                                 | Kate                                 | Bob                                                    |
+| ------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
+| **Présent => imparfait**              | J'aime le chocolat.                  | Elle a dit qu'elle aimait le chocolat.                 |
+| **Passe compose => plus que parfait** | Hier, je suis allé au cinéma.        | Elle m'a dit qu'elle était allée au cinéma.            |
+|                                       | J'ai mangé du chocolat.              | Elle m'a dit qu'elle avait mangé du chocolat.          |
+| **Futur - conditionnel présent**      | Dans 3 mois, je voyagerai en Italie. | Elle m'a dit qu'elle voyagerait en Italie dans 3 mois. |
 
-| Kate                | Bob                                    |
-| ------------------- | -------------------------------------- |
-| J'aime le chocolat. | Elle a dit qu'elle aimait le chocolat. |
-| <img width=300px> | <img width=300px> |
+### La voix passive
 
-**Passe compose - plus que parfait**
+| Règle                         | Active                                                                  | Passive                                                                          |
+| ----------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Présent => est + verbe**    | L'opinion publique prend ses mesures au sérieux.                        | Ses mesures sont prises au sérieux par l'opinion publique.                       |
+| **Passé - a été + verbe**     | Le gouvernement a trouvé une solution à la crise qui l'oppose au monde. | Une solution a été trouvée par le gouvernement à la crise qui l'oppose au monde. |
+| **Imparfait - était + verbe** | L'opinion publique attendait ces mesures depuis longtemps.              | Ces mesures étaient attendues par la publique depuis longtemps.                  |
 
-| Kate                          | Bob                                           |
-| ----------------------------- | --------------------------------------------- |
-| Hier, je suis allé au cinéma. | Elle m'a dit qu'elle était allée au cinéma.   |
-| J'ai mangé du chocolat.       | Elle m'a dit qu'elle avait mangé du chocolat. |
-
-**Futur - conditionnel présent**
-
-| Kate                                 | Bob                                                    |
-| ------------------------------------ | ------------------------------------------------------ |
-| Dans 3 mois, je voyagerai en Italie. | Elle m'a dit qu'elle voyagerait en Italie dans 3 mois. |
-
-### Passive
-
-**Présent - est + verbe**
-
-| Active                                           | Passive                                                    |
-| ------------------------------------------------ | ---------------------------------------------------------- |
-| L'opinion publique prend ses mesures au sérieux. | Ses mesures sont prises au sérieux par l'opinion publique. |
-| <img width=300px> | <img width=300px> |
-
-**Passé - a été + verbe**
-
-| Active                                                                  | Passive                                                                          |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Le gouvernement a trouvé une solution à la crise qui l'oppose au monde. | Une solution a été trouvée par le gouvernement à la crise qui l'oppose au monde. |
-
-**Imparfait - était + verbe**
-
-| Active                                                     | Passive                                                         |
-| ---------------------------------------------------------- | --------------------------------------------------------------- |
-| L'opinion publique attendait ces mesures depuis longtemps. | Ces mesures étaient attendues par la publique depuis longtemps. |
-
-### Nominalisation
+### La nominalisation
 
 - -ment / -age - toujours masculine
 
-**Exemples -age**
-
-| Verbe     | Nom           |
-| --------- | ------------- |
-| tourner   | tournage      |
-| passer    | passage       |
-| apprendre | apprentissage |
-
-**Exemples -té**
-
-| Verbe | Nom   |
-| ----- | ----- |
-| bon   | bonté |
-
-**Exemples -ence**
-
-| Verbe   | Nom      |
-| ------- | -------- |
-| patient | patience |
+| Exemples  | Verbe     | Nom           |
+| --------- | --------- | ------------- |
+| **-age**  | tourner   | tournage      |
+|           | passer    | passage       |
+|           | apprendre | apprentissage |
+| **-té**   | bon       | bonté         |
+| **-ence** | patient   | patience      |
 
 ## 4. Pourquoi la presse à scandale doit être condamnée
 
