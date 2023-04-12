@@ -57,9 +57,10 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 **Présent - imparfait**
 
-| <div style="width:300px">Kate</div> | <div style="width:300px">Bob</div>    |
-| ----------------------------------- | ------------------------------------- |
-| J'aime le chocolat.                 | Elle a dit qu'elle aimait le chocolat.|
+| Kate                | Bob                                    |
+| ------------------- | -------------------------------------- |
+| J'aime le chocolat. | Elle a dit qu'elle aimait le chocolat. |
+| <img width=300px> | <img width=300px> |
 
 **Passe compose - plus que parfait**
 
