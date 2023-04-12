@@ -122,7 +122,7 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 > Une présentation présentant des raison pourquoi la presse à scandale est mal pour la publique.
 
-<object data="./La presse à scandale doit être condamnée.pdf" type="application/pdf" width="100%"></object> 
+<object data="./La presse à scandale doit être condamnée.pdf" type="application/pdf" width="100%" height="600px"></object> 
 
 ## 5. Travailles en groupes sur la classé : la vidéo avec un réflexion avec Dax
 
