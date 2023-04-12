@@ -82,6 +82,7 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 | Active                                           | Passive                                                    |
 | ------------------------------------------------ | ---------------------------------------------------------- |
 | L'opinion publique prend ses mesures au sérieux. | Ses mesures sont prises au sérieux par l'opinion publique. |
+| <img width=300px> | <img width=300px> |
 
 **Passé - a été + verbe**
 
