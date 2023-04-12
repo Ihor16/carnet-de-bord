@@ -84,7 +84,7 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 ## 4. Pourquoi la presse à scandale doit être condamnée
 
-> Une présentation exposant les raisons pourquoi la presse à scandale est mal pour le publique.
+> Ma présentation exposant les raisons pourquoi la presse à scandale est mal pour le publique.
 
 <object data="./La presse à scandale doit être condamnée.pdf" type="application/pdf" width="100%" height="600px"></object> 
 
