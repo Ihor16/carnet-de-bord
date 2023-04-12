@@ -43,7 +43,7 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 ## 3. Qu'est ce que ce que j'ai appris en classe ce semestre
 
-> Le tableau de la grammaire avec des exemples de la classe que j'ai composé ce semestre.
+> Les tableaux de la grammaire avec des exemples de la classe que j'ai composé ce semestre.
 
 ### Subjonctif
 
