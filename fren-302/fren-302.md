@@ -57,9 +57,9 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 **Présent - imparfait**
 
-| Kate                | Bob                                    |
-| ------------------- | -------------------------------------- |
-| J'aime le chocolat. | Elle a dit qu'elle aimait le chocolat. |
+| <div style="width:300px">Kate</div> | <div style="width:300px">Bob</div>    |
+| ----------------------------------- | ------------------------------------- |
+| J'aime le chocolat.                 | Elle a dit qu'elle aimait le chocolat.|
 
 **Passe compose - plus que parfait**
 
