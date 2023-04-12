@@ -1,6 +1,6 @@
 # FREN 302
 
-### 1. Comment on peut éviter des additions exagérées
+## 1. Comment on peut éviter des additions exagérées
 
 > Le conseil pour des gens faisant de grands achats et des touristes achetant à l'étrangère.
 
@@ -15,7 +15,7 @@ Si on *fait des achats* dans un pays étranger, **je recommande de** rechercher 
 
 En définitive, communiquez prudemment avec des vendeurs **en achetant** des objets et recherchez des *régulations* de taxes si vous *faites des achats* à l'étrangère.
 
-### 2. Comment on peut écrire des texte en utilisant seulement le clavier
+## 2. Comment on peut écrire des texte en utilisant seulement le clavier
 
 > La présentation de la façon de rédiger un texte avec Vim.
 
@@ -41,11 +41,11 @@ Donc **en utilisant** Vim, on *découvre toujours d'autres horizons*.
 Ainsi, je suis très heureux **d'avoir trouvé** ce programme et que j'ai appris sa base.
 Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tomber amoureux de Vim après **l'avoir utilisé** pendant quelques mois.
 
-### 3. Qu'est ce que ce que j'ai appris en classe ce semestre
+## 3. Qu'est ce que ce que j'ai appris en classe ce semestre
 
 > Le tableau de la grammaire avec des exemples de la classe que j'ai composé ce semestre.
 
-#### Subjonctif
+### Subjonctif
 
 - Après "que" si on est incertaine
 - Comme `ils` + -e, -es, -e, -ions, -iez, -ent
@@ -53,106 +53,56 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
   * prendre: nous prenons, ils prennent => nous prenions, vous preniez, mais il prenne
 - Conjugaison: [lien](https://lecoursdefrancais.weebly.com/le-subjonctif.html#:~:text=The%20subjonctif%20is%20a%20French,desire%2C%20emotion%2C%20or%20uncertainty)
 
-#### La concordance des temps
+### La concordance des temps
 
 **Présent - imparfait**
-
 - J'aime le chocolat.
 - Elle a dit qu'elle aimait le chocolat.
 
 **Passe compose - plus que parfait**
-
 - Hier, je suis allé au cinéma.
 - Elle m'a dit qu'elle était allée au cinéma.
 - J'ai mangé du chocolat.
 - Elle m'a dit qu'elle avait mangé du chocolat.
 
 **Futur - conditionnel présent**
-
 - Dans 3 mois, je voyagerai en Italie.
 - Elle m'a dit qu'elle voyagerait en Italie dans 3 mois.
 
-#### Passive
+### Passive
 
 **Présent - est + verbe**
-
 - L'opinion publique prend ses mesures au sérieux.
 - Ses mesures sont prises au sérieux par l'opinion publique.
 
 **Passé - a été + verbe**
-
 - Le gouvernement a trouvé une solution à la crise qui l'oppose au monde.
 - Une solution a été trouvée par le gouvernement à la crise qui l'oppose au monde. 
 
 **Imparfait - était + verbe**
-
 - L'opinion publique attendait ces mesures depuis longtemps.
 - Ces mesures étaient attendues par la publique depuis longtemps.
 
-#### Nominalisation
+### Nominalisation
 
 - -ment / -age - toujours masculine
 
 **Exemples -age**
-
 - tourner - tournage
 - passer - passage
 - apprendre - apprentissage
 
 **Exemples -té**
-
 - bon - bonté
 
 **Exemples -ence**
-
 - patient - patience
 
-> Le vocabulaire que j'ai appris ce semestre.
+## 4. La discussion sur Canvas : la presse à scandale doit être condamnée : la présentation
 
-#### Des arnaques
+## 5. Travailles en groupes sur la classé : la vidéo avec un réflexion
 
-- Des arnaque - "Il y a beaucoup d'arnaques sur internet aujourd'hui."
-- Trompeur - "C'est un prix trompeur."
-- Comportement - "Elle a toujours eu un comportement bizarre."
-- Vigilant - "Il faut que tu sois vigilant en l'achetant."
-- Dénoncer - "Il faut dénoncer ces arnaques."
-
-#### Le cinéma
-
-- N'importe quelle - "Il faut lui rencontrer avant échanger n'importe quelles informations."
-- La note salée - "Cette note est salée."
-- Pièce - "Demander une pièce d'identification."
-- Mécontentement - "Il l'a fait au grand mécontentement de leur amis."
-- Mobilisation - "Ils ont participé, prouvant de l'importance de notre mobilisation."
-- Accroche-toi - "Accroche-toi ! Je serai prêt dans 5 minutes."
-- Obligation - "Je me verrais dans l'obligation de faire ça."
-- Prochains jours - "Je vais te contacter dans les tous prochains jours."
-- Pour un email - "Dans l'attente de vous rencontrer, je vous renouvelle nos plus plates excuses et vous prie, chère cliente, d'agréer l'expression de nos salutations distinguées."
-- "On se fait une toile ?" - "Est-ce que nous allons au cinéma ?"
-- "Ce film est un chef-d'œuvre !" - "Ce film est génial !"
-- "Ce dont on ne parle pas toujours, c'est qu'il est un acteur génial" - c'est un chose de qui on ne parle pas toujours
-- "Ce qui est étonnant dans ce film, c'est son histoire bien ficelée"
-- "Ce que je trouve impressionnant dans ce film, c'est qu'elle réussit à interpréter son rôle professionnellement"
-
-#### La vie publique
-
-- Ras-le-bol - "J'en ai ras-le-bol."
-- Ras-le-bol - "Nous allons dénoncer le ras-le-bol des voyageurs."
-- S'empiffrer - manger beaucoup et mal
-- Vagues - "Nous allons nous mobiliser sans faire de vagues."
-- Gravé - "Faire les grevés."
-
-#### L'éducation
-
-- "La système traditionnelles" - "Elle doute que les systèmes traditionnelles soient effective pour tous les enfants."
-- "L'éducation à la maison" - "Elle indique que l'éducation à la maison est plus effective."
-- "Il s'agit de" - ce texte est sur
-
-### 4. La discussion sur Canvas : la presse à scandale doit être condamnée : la présentation
-
-### 5. Travailles en groupes sur la classé : la vidéo avec un réflexion
-
-### 6. Mon progrès cette année: un vidéo avec des carnet de bord des année précédentes
+## 6. Mon progrès cette année: un vidéo avec des carnet de bord des année précédentes
 
 Grammaire:
 
