@@ -19,7 +19,7 @@ En définitive, communiquez prudemment avec des vendeurs **en achetant** des obj
 
 > La présentation de la façon de rédiger un texte avec Vim.
 
-L'année précédente, j'ai découvert [Vim](https://fr.wikipedia.org/wiki/Vim), un programme qui permet de rédiger un texte en utilisant [Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix).
+L'année précédente, j'ai découvert [Vim](https://external.ink?to=/fr.wikipedia.org/wiki/Vim), un programme qui permet de rédiger un texte en utilisant [Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix).
 
 Le Shell est un mode de communication avec un ordinateur, donc on peut soit naviguer des programmes avec une souris d'ordinateur ou écrire des commandes dans le Shell.
 Par exemple, dans la vidéo ci-dessous, je peux créer un dossier comme **en utilisant** l'interface utilisateur et rédiger le texte avec un éditeur.
