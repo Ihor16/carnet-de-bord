@@ -27,10 +27,13 @@ Cependant, il est possible aussi d'utiliser le Shell pour faire la même chose :
 
 Et maintenant, je peux rédiger le dossier.
 Dans une vidéo je **le** fais, mais c'est 10 fois plus rapide **pour que vous puissiez** distinguer le motif.
+
 **Ce qui m'inspire** beaucoup, c'est que la souris d'ordinateur ne marche pas dans cet éditeur, et donc **il faut utiliser** seulement le clavier.
 Il peut sembler difficile d' apprendre toutes les commandes pour se naviguer est ajouter le texte, mais après surmonter ce challenge initial, on réalise la *capacité* de ce programme.
+
 La **façon dont** il permet de rédiger est la meilleure parce qu'il semble comme un jeu à chaque fois qu'on veut travailler avec un texte.
 Il y a plusieurs manières de faire des actions, donc **en apprenant** Vim, on essaie toujours de trouver la façon la plus rapide et la plus confortable.
+
 Mais même après avoir trouvé le manier rapide, on peut découvrir la meilleure méthode *sur Internet* et l'adapter pour votre usage.
 Donc **en utilisant** Vim, on *découvre toujours d'autres horizons*.
 
