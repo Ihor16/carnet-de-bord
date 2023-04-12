@@ -91,7 +91,7 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 #### Nominalisation
 
-- -ment / -age | toujours masculine
+- -ment / -age - toujours masculine
 
 **Exemples -age**
 
