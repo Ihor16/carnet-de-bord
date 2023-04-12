@@ -60,15 +60,15 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 | **Présent => imparfait**              | J'aime le chocolat.                  | Elle a dit qu'elle aimait le chocolat.                 |
 | **Passe compose => plus que parfait** | Hier, je suis allé au cinéma.        | Elle m'a dit qu'elle était allée au cinéma.            |
 |                                       | J'ai mangé du chocolat.              | Elle m'a dit qu'elle avait mangé du chocolat.          |
-| **Futur - conditionnel présent**      | Dans 3 mois, je voyagerai en Italie. | Elle m'a dit qu'elle voyagerait en Italie dans 3 mois. |
+| **Futur => conditionnel présent**     | Dans 3 mois, je voyagerai en Italie. | Elle m'a dit qu'elle voyagerait en Italie dans 3 mois. |
 
 ### La voix passive
 
-| Règle                         | Active                                                                  | Passive                                                                          |
-| ----------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **Présent => est + verbe**    | L'opinion publique prend ses mesures au sérieux.                        | Ses mesures sont prises au sérieux par l'opinion publique.                       |
-| **Passé - a été + verbe**     | Le gouvernement a trouvé une solution à la crise qui l'oppose au monde. | Une solution a été trouvée par le gouvernement à la crise qui l'oppose au monde. |
-| **Imparfait - était + verbe** | L'opinion publique attendait ces mesures depuis longtemps.              | Ces mesures étaient attendues par le publique depuis longtemps.                  |
+| Règle                          | Active                                                                  | Passive                                                                          |
+| ------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Présent => est + verbe**     | L'opinion publique prend ses mesures au sérieux.                        | Ses mesures sont prises au sérieux par l'opinion publique.                       |
+| **Passé => a été + verbe**     | Le gouvernement a trouvé une solution à la crise qui l'oppose au monde. | Une solution a été trouvée par le gouvernement à la crise qui l'oppose au monde. |
+| **Imparfait => était + verbe** | L'opinion publique attendait ces mesures depuis longtemps.              | Ces mesures étaient attendues par le publique depuis longtemps.                  |
 
 ### La nominalisation
 
