@@ -68,7 +68,7 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 | ----------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | **Présent => est + verbe**    | L'opinion publique prend ses mesures au sérieux.                        | Ses mesures sont prises au sérieux par l'opinion publique.                       |
 | **Passé - a été + verbe**     | Le gouvernement a trouvé une solution à la crise qui l'oppose au monde. | Une solution a été trouvée par le gouvernement à la crise qui l'oppose au monde. |
-| **Imparfait - était + verbe** | L'opinion publique attendait ces mesures depuis longtemps.              | Ces mesures étaient attendues par la publique depuis longtemps.                  |
+| **Imparfait - était + verbe** | L'opinion publique attendait ces mesures depuis longtemps.              | Ces mesures étaient attendues par le publique depuis longtemps.                  |
 
 ### La nominalisation
 
@@ -84,7 +84,7 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 ## 4. Pourquoi la presse à scandale doit être condamnée
 
-> Une présentation présentant des raison pourquoi la presse à scandale est mal pour la publique.
+> Une présentation exposant les raisons pourquoi la presse à scandale est mal pour le publique.
 
 <object data="./La presse à scandale doit être condamnée.pdf" type="application/pdf" width="100%" height="600px"></object> 
 
