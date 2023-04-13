@@ -90,6 +90,11 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 ## 5. Travailles en groupes sur la classé : la vidéo avec un réflexion avec Dax
 
+> La réflexion avec ma partenaire de groupe sur le travail en groupe ce semestre.
+
+(!!!) Lien
+[![La réflexion](https://i3.ytimg.com/vi/ss9Bby2r_7I/maxresdefault.jpg)](!!!lien)
+
 ## 6. Mon progrès cette année: une article avec ou je présentes mes carnet de bord des année précédentes : Canva
 
 Grammaire:
