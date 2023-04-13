@@ -19,28 +19,6 @@ En définitive, communiquez prudemment avec des vendeurs **en achetant** des obj
 
 > La présentation de la façon de rédiger un texte avec Vim.
 
-L'année précédente, j'ai découvert [Vim](https://fr.wikipedia.org/wiki/Vim), un programme qui permet de rédiger un texte en utilisant [Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix).
-
-Le Shell est un mode de communication avec un ordinateur, donc on peut soit naviguer des programmes avec une souris d'ordinateur ou écrire des commandes dans le Shell.
-Par exemple, dans la vidéo ci-dessous, je peux créer un dossier comme **en utilisant** l'interface utilisateur et rédiger le texte avec un éditeur.
-Cependant, il est possible aussi d'utiliser le Shell pour faire la même chose : dans la vidéo je crée un dossier et je l'ouvre avec Vim.
-
-Et maintenant, je peux rédiger le dossier.
-Dans une vidéo je **le** fais, mais c'est 10 fois plus rapide **pour que vous puissiez** distinguer le motif.
-
-[![Rédaction du texte dans Vim](https://i3.ytimg.com/vi/3sXNK00YagM/0.jpg)](https://youtu.be/3sXNK00YagM)
-
-**Ce qui m'inspire** beaucoup, c'est que la souris d'ordinateur ne marche pas dans cet éditeur, et donc **il faut utiliser** seulement le clavier.
-Il peut sembler difficile d' apprendre toutes les commandes pour se naviguer est ajouter le texte, mais après surmonter ce challenge initial, on réalise la *capacité* de ce programme.
-
-La **façon dont** il permet de rédiger est la meilleure parce qu'il semble comme un jeu à chaque fois qu'on veut travailler avec un texte.
-Il y a plusieurs manières de faire des actions, donc **en apprenant** Vim, on essaie toujours de trouver la façon la plus rapide et la plus confortable.
-Mais même après avoir trouvé le manier rapide, on peut découvrir la meilleure méthode *sur Internet* et l'adapter pour votre usage.
-Donc **en utilisant** Vim, on *découvre toujours d'autres horizons*.
-
-Ainsi, je suis très heureux **d'avoir trouvé** ce programme et que j'ai appris sa base.
-Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tomber amoureux de Vim après **l'avoir utilisé** pendant quelques mois.
-
 ## 3. Qu'est ce que ce que j'ai appris en classe ce semestre
 
 > Les tableaux de la grammaire avec des exemples de la classe que j'ai composé ce semestre.
@@ -88,21 +66,15 @@ Je vous recommande de **l'essayer** aussi et je pense que vous aussi allez tombe
 
 <object data="./La presse à scandale doit être condamnée.pdf" type="application/pdf" width="100%" height="600px"></object> 
 
-## 5. Travail en groupes en classe ce semestre
+## 5. Travail en groupes ce semestre
 
 > La réflexion avec ma partenaire de groupe sur le travail en groupe ce semestre.
 
 (!!!) Lien
 [![La réflexion](https://i3.ytimg.com/vi/ss9Bby2r_7I/maxresdefault.jpg)](!!!lien)
 
-## 6. Mon progrès cette année: une article avec ou je présentes mes carnet de bord des année précédentes : Canva
+## 6. Mon progrès ce semestre
 
-Grammaire:
+> La réflexion de mon progrès ce semestre.
 
-- Ce que
-- Dont
-- Subjonctif
-- Le discours rapporté
-- La voie passive
-- Cause et les conséquence
-- 
+<object data="./La réflexion de FREN 302.pdf" type="application/pdf" width="100%" height="600px"></object> 
