@@ -19,6 +19,8 @@ En définitive, communiquez prudemment avec des vendeurs **en achetant** des obj
 
 > La présentation de la façon de rédiger un texte avec Vim.
 
+[![Vim](https://i3.ytimg.com/vi/hGMBZ75bV-E/maxresdefault.jpg)](https://youtu.be/hGMBZ75bV-E)
+
 ## 3. Qu'est ce que ce que j'ai appris en classe ce semestre
 
 > Les tableaux de la grammaire avec des exemples de la classe que j'ai composé ce semestre.
@@ -70,11 +72,11 @@ En définitive, communiquez prudemment avec des vendeurs **en achetant** des obj
 
 > La réflexion avec ma partenaire de groupe sur le travail en groupe ce semestre.
 
-(!!!) Lien
-[![La réflexion](https://i3.ytimg.com/vi/ss9Bby2r_7I/maxresdefault.jpg)](!!!lien)
+[![La réflexion](https://i3.ytimg.com/vi/ss9Bby2r_7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=ss9Bby2r_7I)
 
 ## 6. Mon progrès ce semestre
 
 > La réflexion de mon progrès ce semestre.
 
 <object data="./La réflexion de FREN 302.pdf" type="application/pdf" width="100%" height="600px"></object> 
+
