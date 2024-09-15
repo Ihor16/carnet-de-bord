@@ -30,10 +30,9 @@ Voici la carte que j'ai suivie: [le lien pour la route](https://ridewithgps.com/
 
 À voir ! Il peut prendre 1 heure pour traverser la frontière canadienne, donc planifier pour ça.
 
-![Vélo-1](./média/voyage-à-seattle/vélo-1.JPG)
-![Vélo-2](./média/voyage-à-seattle/vélo-2.JPG)
-![Vélo-3](./média/voyage-à-seattle/vélo-3.JPG)
-![Vélo-4](./média/voyage-à-seattle/vélo-4.JPG)
+| ![Vélo-1](./média/voyage-à-seattle/vélo-1.JPG) | ![Vélo-2](./média/voyage-à-seattle/vélo-2.JPG) |
+| ---------------------------------------------- | ---------------------------------------------- |
+| ![Vélo-3](./média/voyage-à-seattle/vélo-3.JPG) | ![Vélo-4](./média/voyage-à-seattle/vélo-4.JPG) |
 
 Alors, je vous souhaite un voyage génial ! Choisissez une semaine quand il fait bon !
 
