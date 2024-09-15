@@ -5,7 +5,7 @@
 
 Cet été j'ai fait du vélo à Seattle.
 Je suis parti de Vancouver à Juin 28 matin, entré Seattle le soir prochain, et retourné à Vancouver à Juillet 3.
-Quelle voyagé c'était! 4 jours à vélo et 580 km au total !
+Quelle voyagé c'était ! 4 jours à vélo et 580 km au total !
 
 Voici mon conseil pour prendre ce voyage.
 
