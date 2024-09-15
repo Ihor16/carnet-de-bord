@@ -12,7 +12,7 @@ Voici mon conseil pour prendre ce voyage.
 Tout d'abord, il faut préparer votre vélo et bagage en avance.
 Pour le vélo, c'est important de le nettoyer: les dérailleurs, la cassette et la chaîne doivent être propres et bien lubrifiés.
 
-![Vélo](./média/voyage-à-seattle/vélo.png)
+![Vélo](./média/voyage-à-seattle/vélo.JPG)
 
 En parlant de bagage, je conseil que vous preniez le minimum parce que ce sera plus difficile à rouler en portant un sac à dos gros.
 Si vous voyagez seulement pour quelques jours, ces choses sont tout dont vous avez besoin:
