@@ -36,3 +36,29 @@ Voici la carte que j'ai suivie: [le lien pour la route](https://ridewithgps.com/
 
 Alors, je vous souhaite un voyage génial ! Choisissez une semaine quand il fait bon !
 
+## 2. "Kuei, je te salue"
+> Le commentaire sur l'extrait.
+
+Dans ce blog je voudrais vous présenter mon commentaire sur l'extrait de "Kuei, je te salue".
+
+Tout d'abord, le format.
+Ce livre est la correspondance entre Déni Ellis et Natasha Kanapé sur le sujet du racisme contre les gens indigènes.
+J'ai beaucoup aimé ce format parce qu'il a permis aux auteurs d'exprimer leurs sentiments en utilisant le façon honnête et personnelle.
+
+Après nous continuent, voici quelques définitions importantes qui les auteurs utilise souvent:
+- Autochtones: "les premiers peuples d'Amérique du Nord et leurs descendants", [lien](https://www.rcaanc-cirnac.gc.ca/fra/1100100013785/1529102490303).
+- Allochtones: "personne qui n'est pas née dans le pays qu'elle habite", [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8364107/allochtone).
+
+Donc, maintenant je voudrais vous parler d'une cause du racisme que Déni et Natasha discutent.
+
+Les auteurs disent que c'est la peur qui cause le racisme.
+Les gens étranger ne veulent pas considérer les points de vue des autochtones parce qu'en discutant ces questions on peut déstabiliser son concept de la vérité.
+Donc, les allochtones préfèrent ignorer la culture indigène et rester dans leur zone de conforte.
+
+Et finalement, je veux présenter une solution que je considère efficace.
+
+Je conseille des allochtones qui veulent apprendre plus de l'histoire de colonisations à faire l'exercice de Kairos.
+C'est une présentation interactive avec une personne autochtone qui présente les événements les plus importants d'histoire de la colonisation.
+Chaque participant doit jouer le rôle d'une personne autochtone qui devient séparée de sa terre et de sa famille.
+Donc, en faisant cet exercice, on peut apprendre le contexte dans lequel les gens autochtones ont vécu et l'impact négatif de la colonisation.
+
