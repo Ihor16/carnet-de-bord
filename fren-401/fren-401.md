@@ -56,6 +56,7 @@ J'ai senti que ma compétence n'était pas bien.
 
 | ![Paris-1](./média/voyage-à-paris/paris-1.JPG) | ![Paris-2](./média/voyage-à-paris/paris-2.JPG) |
 | ---------------------------------------------- | ---------------------------------------------- |
+| *La rue près de la Gare du Nord.*              | *La rue près du Louvre.*                       |
 
 Donc, je pense que ce type de politesse augmente le sentiment d'insécurité linguistique.
 Je pense qu'il faut que les gens courants donnent une chance à autre à exprimer leur questions.
@@ -90,3 +91,4 @@ Je conseille des allochtones qui veulent apprendre plus de l'histoire de colonis
 C'est une présentation interactive avec une personne autochtone qui présente les événements les plus importants d'histoire de la colonisation.
 Chaque participant doit jouer le rôle d'une personne autochtone qui devient séparée de sa terre et de sa famille.
 Donc, en faisant cet exercice, on peut apprendre le contexte dans lequel les gens autochtones ont vécu et l'impact négatif de la colonisation.
+
