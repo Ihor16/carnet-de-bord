@@ -76,8 +76,8 @@ J'ai beaucoup aimé ce format parce qu'il a permis aux auteurs d'exprimer leurs 
 
 Après nous continuent, voici quelques définitions importantes qui les auteurs utilise souvent:
 
-- Autochtones: "les premiers peuples d'Amérique du Nord et leurs descendants", [lien](https://www.rcaanc-cirnac.gc.ca/fra/1100100013785/1529102490303)
-- Allochtones: "personne qui n'est pas née dans le pays qu'elle habite", [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8364107/allochtone)
+- Autochtones: "les premiers peuples d'Amérique du Nord et leurs descendants", [lien](https://www.rcaanc-cirnac.gc.ca/fra/1100100013785/1529102490303).
+- Allochtones: "personne qui n'est pas née dans le pays qu'elle habite", [lien](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8364107/allochtone).
 
 Donc, maintenant je voudrais vous parler d'une cause du racisme que Déni et Natasha discutent.
 
