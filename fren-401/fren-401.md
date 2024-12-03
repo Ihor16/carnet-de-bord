@@ -96,4 +96,4 @@ Donc, en faisant cet exercice, on peut apprendre le contexte dans lequel les gen
 
 > Mon conseil comment partager un hébergement avec les autres.
 
-[![UBC](./média/partager-un-hébergement/1.JPG)](https://www.youtube.com/watch?v=ss9Bby2r_7I)
+[![UBC](./média/partager-un-hébergement/1.JPG)](https://youtu.be/DFPegnwjoS0)
