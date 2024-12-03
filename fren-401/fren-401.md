@@ -92,3 +92,8 @@ C'est une présentation interactive avec une personne autochtone qui présente l
 Chaque participant doit jouer le rôle d'une personne autochtone qui devient séparée de sa terre et de sa famille.
 Donc, en faisant cet exercice, on peut apprendre le contexte dans lequel les gens autochtones ont vécu et l'impact négatif de la colonisation.
 
+## 4. Comment partager un hébergement avec les voisins
+
+> Mon conseil comment partager un hébergement avec les autres.
+
+[![UBC](./média/partager-un-hébergement/1.JPG)](https://www.youtube.com/watch?v=ss9Bby2r_7I)
