@@ -97,3 +97,9 @@ Donc, en faisant cet exercice, on peut apprendre le contexte dans lequel les gen
 > Mon conseil comment partager un hébergement avec les autres.
 
 [![UBC](./média/partager-un-hébergement/1.JPG)](https://youtu.be/DFPegnwjoS0)
+
+## 5. Les blogs de mes camarades
+
+> Mes commentaires sur les blogs de mes camarades.
+
+[![Culture](./média/les-blogs-de-mes-camarades/1.jpg)](https://youtu.be/xSvBxuZa5aU)
