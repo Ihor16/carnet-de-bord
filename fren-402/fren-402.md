@@ -19,3 +19,19 @@ Ainsi, bien qu'il puisse sembler difficile de se réveiller si tôt pour faire d
 
 ![1.JPG](média/temps-pour-faire-du-vélo/1.JPG)
 
+## 2. Le tour de vélo le plus difficile à Vancouver
+
+> La description de voyage sur l'île Bowen.
+
+Quelques mois plus tard, j'ai découvert l'île Bowen en y faisant du vélo. Il faut comprendre que ce jour-là, c'était mon premier voyage sur cette île, donc j'était curieux de le découvrir. J'ai pensé que ce serait un voyage calme et vraiment joli.
+
+Mais, je suis devenu surpris presque en moment quand j'ai commencé de rouler. Bien que les rues soient calmes et avec beaucoup d'espace pour les cyclistes, la quantité des montées était la chose qui a causé des difficultés sérieuses. Chacun qui essayera d'y rouler va découvrir qu'il n'y a pas de rues sans une montée ou une descente dans cette île.
+
+De plus, j'ai trouvé que les descentes en Bowen étaient assez dangereuses. Non seulement l'inclination était grande, mais aussi il y a eu beaucoup de tournées. Donc, tout le monde qui y fait du vélo doit être extrêmement prudent et freiner en avance.
+
+Toutefois, cette île est fantastique pour faire du vélo avec des amis. C'était très amusant de se planter sur la quantité des montées et le manque des belles vues. Mais pour réparer la situation, l'île offre plusieurs grandes descentes. Par exemple, c'était vraiment amusant de prendre la rue centrale pour retourner au terminal maritime parce qu'elle a eu la descente la plus longue.
+
+Ainsi, c'était un voyage fantastique. Cette île Bowen pose un challenge mais aussi crée une opportunité merveilleuse de passer un week-end génial.
+
+![1.JPG](média/île-bowen/1.JPG)
+
