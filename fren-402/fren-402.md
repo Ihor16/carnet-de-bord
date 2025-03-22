@@ -23,6 +23,8 @@ Ainsi, bien qu'il puisse sembler difficile de se réveiller si tôt pour faire d
 
 > La description de voyage sur l'île Bowen.
 
+![1.JPG](média/île-bowen/1.JPG){: style="float: left"}
+
 Quelques mois plus tard, j'ai découvert l'île Bowen en y faisant du vélo. Il faut comprendre que ce jour-là, c'était mon premier voyage sur cette île, donc j'était curieux de le découvrir. J'ai pensé que ce serait un voyage calme et vraiment joli.
 
 Mais, je suis devenu surpris presque en moment quand j'ai commencé de rouler. Bien que les rues soient calmes et avec beaucoup d'espace pour les cyclistes, la quantité des montées était la chose qui a causé des difficultés sérieuses. Chacun qui essayera d'y rouler va découvrir qu'il n'y a pas de rues sans une montée ou une descente dans cette île.
@@ -33,5 +35,4 @@ Toutefois, cette île est fantastique pour faire du vélo avec des amis. C'étai
 
 Ainsi, c'était un voyage fantastique. Cette île Bowen pose un challenge mais aussi crée une opportunité merveilleuse de passer un week-end génial.
 
-<img src="média/île-bowen/1.JPG" alt="1.JPG" width="300"/>
 
