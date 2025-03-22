@@ -33,5 +33,5 @@ Toutefois, cette île est fantastique pour faire du vélo avec des amis. C'étai
 
 Ainsi, c'était un voyage fantastique. Cette île Bowen pose un challenge mais aussi crée une opportunité merveilleuse de passer un week-end génial.
 
-![1.JPG](média/île-bowen/1.JPG)
+<img src="média/île-bowen/1.JPG" alt="1.JPG" width="200"/>
 
