@@ -23,7 +23,7 @@ Ainsi, bien qu'il puisse sembler difficile de se réveiller si tôt pour faire d
 
 > La description de voyage sur l'île Bowen.
 
-![1.JPG](média/île-bowen/1.JPG){: style="float: left"; width="300"}
+![1.JPG](média/île-bowen/1.JPG){: style="float: left"; margin-right: 10em; width="300"}
 
 Quelques mois plus tard, j'ai découvert l'île Bowen en y faisant du vélo. Il faut comprendre que ce jour-là, c'était mon premier voyage sur cette île, donc j'était curieux de le découvrir. J'ai pensé que ce serait un voyage calme et vraiment joli.
 
