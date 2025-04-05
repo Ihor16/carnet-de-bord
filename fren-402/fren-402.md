@@ -35,3 +35,16 @@ Ainsi, c'était un voyage fantastique. Cette île Bowen pose un challenge mais a
 
 <img src="média/île-bowen/1.JPG" alt="1.JPG" width="300"/>
 
+## 3. Ma place préférée pour regarder la floraison des cerisiers
+
+C'est la rue Heather à Vancouver que j'aime visiter pendant le printemps pour regarder la floraison des cerisiers.
+
+L'année dernière je l'ai découvert en faisant du vélo à Kerrisdale, et instantanément j'en suis tombé amoureux. Presque toute la rue entre les avenues W52 et W41 était détournée avec la floraison. C'était magique.
+
+Donc, j'y suis allé cette année aussi en avril, mais étonnamment j'ai découvert que les arbres l'ont pas encore eu la floraison. J'ai oublié à quelle moins j'y étais allé l'année dernière, donc probablement je devais visiter cette rue en mai.
+
+Pour les gens qui veulent y aller en vélo, je recommande de commencer à l'avenue W41 et rouler ou Sud vers l'avenue W52. Ce sera une descente, qui va être plus facile.
+
+Ainsi, voilà ma rue préférée pour regarder la floraison des cerisiers. Je recommande de visiter cette rue Heather entre les avenue W52 et W41 pendant la fin d'avril ou la commence de mai pour voir les floraisons magiques.
+
+![1.JPG](média/floraison-des-cerisiers/1.JPG)
