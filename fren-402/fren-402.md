@@ -50,3 +50,10 @@ Pour les gens qui veulent y aller en vélo, je recommande de commencer à l'aven
 Ainsi, voilà ma rue préférée pour regarder la floraison des cerisiers. Je recommande de visiter cette rue Heather entre les avenue W52 et W41 pendant la fin d'avril ou la commence de mai pour voir les floraisons magiques.
 
 ![1.JPG](média/floraison-des-cerisiers/1.JPG)
+
+## 4. La meilleure façon pour faire des courses
+
+> La présentation de mon façon préférée pour faire des courses.
+
+[![1.JPG](./média/des-courses/1.JPG)](https://youtu.be/eDxGvPR-msw)
+
