@@ -53,7 +53,7 @@ Ainsi, voilà ma rue préférée pour regarder la floraison des cerisiers. Je re
 
 ## 4. La meilleure façon pour faire des courses
 
-> La présentation de mon façon préférée pour faire des courses.
+> La présentation de ma façon préférée pour faire des courses.
 
 [![1.JPG](./média/des-courses/1.JPG)](https://youtu.be/eDxGvPR-msw)
 
