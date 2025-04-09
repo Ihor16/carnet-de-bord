@@ -57,3 +57,8 @@ Ainsi, voilà ma rue préférée pour regarder la floraison des cerisiers. Je re
 
 [![1.JPG](./média/des-courses/1.JPG)](https://youtu.be/eDxGvPR-msw)
 
+## 5. Les blogs de mes camarades
+
+> Mes commentaires sur les blogs de mes camarades.
+
+[![1.JPG](./média/les-blogs-de-mes-camarades/1.JPG)](https://youtu.be/yR39PurjwjY)
